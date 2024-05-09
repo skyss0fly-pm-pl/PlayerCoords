@@ -1,9 +1,9 @@
 # PlayerCoords
-Simple on the fly coordinates message.
+## Simple on the fly coordinates message.
 
-## Created By Skyss0fly. NOTE: This Repository is a Spoon Of the official version and is only a Developmental Version. go [here](https://github.com/skyss0fly/PlayerCoords) for Stable Versions!
+# Created By Skyss0fly. NOTE: This Repository is a Spoon Of the official version and is only a Developmental Version. go [here](https://github.com/skyss0fly/PlayerCoords) for Stable Versions!
 
-### - - - - 
+# - - - - 
 <h1> Latest Poggit Version:</h1>
 <p align="center">
 <a href="https://poggit.pmmp.io/p/PlayerCoords"><img src="https://poggit.pmmp.io/shield.api/PlayerCoords"></a>
@@ -26,7 +26,11 @@ to change the color of your xyz, go to config.yml in plugin_data
 ## API COMPATIBLE:
 - 6.X.Y,
 - [5.X.Y Found here](https://github.com/skyss0fly/PlayerCoords/releases/tag/5.0_2)
-
+- (4.X.Y Is Not Supported)
+- (3.X.Y Is Not Supported)
+- (2.X.Y Is Not Supported)
+- (1.X.Y Is Not Supported)
+- (0.X.Y Is Not Supported)
  # thanks to the following for helping me construct this plugin:
 - Amit
 - mmm545

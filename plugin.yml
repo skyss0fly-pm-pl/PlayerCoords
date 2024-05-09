@@ -8,7 +8,7 @@ permissions:
   PlayerCoords.use:
     default: op
   PlayerCoords.fcoords:
-  default: op
+    default: op
   PlayerCoords.bccoords:
     default: op
 commands:
@@ -17,9 +17,9 @@ commands:
     permission: PlayerCoords.use
     default: false
  fcoords:
-  description: Use this to gain your Floor Position in the form of coordinate
-  permission: PlayerCoords.fcoords
-  default: false
+    description: Use this to gain your Floor Position in the form of coordinate
+    permission: PlayerCoords.fcoords
+    default: false
   bccoords:
     description: broadcast your coords:)
     permission: PlayerCoords.bccoords

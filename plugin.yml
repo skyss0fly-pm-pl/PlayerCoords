@@ -7,6 +7,8 @@ description: A simple coordinates plugin
 permissions:
   PlayerCoords.use:
     default: op
+  PlayerCoords.fcoords:
+  default: op
   PlayerCoords.bccoords:
     default: op
 commands:
@@ -14,6 +16,10 @@ commands:
     description: use this to display your coords
     permission: PlayerCoords.use
     default: false
+ fcoords:
+  description: Use this to gain your Floor Position in the form of coordinate
+  permission: PlayerCoords.fcoords
+  default: false
   bccoords:
     description: broadcast your coords:)
     permission: PlayerCoords.bccoords

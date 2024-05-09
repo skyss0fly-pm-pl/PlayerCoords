@@ -2,6 +2,9 @@
 Simple on the fly coordinates message.
 
 ## Created By Skyss0fly. NOTE: This Repository is a Spoon Of the official version and is only a Developmental Version. go [here](https://github.com/skyss0fly/PlayerCoords) for Stable Versions!
+
+### - - - - 
+<h1> Latest Poggit Version:</h1>
 <p align="center">
 <a href="https://poggit.pmmp.io/p/PlayerCoords"><img src="https://poggit.pmmp.io/shield.api/PlayerCoords"></a>
 <a href="https://poggit.pmmp.io/p/PlayerCoords"><img src="https://poggit.pmmp.io/shield.state/PlayerCoords"></a>

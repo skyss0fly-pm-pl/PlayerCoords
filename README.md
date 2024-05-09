@@ -24,8 +24,8 @@ to change the color of your xyz, go to config.yml in plugin_data
 - None, You should suggest some!
 
 ## API COMPATIBLE:
-- 6.X.X
-  [5.X.Y Found Here](https://github.com/skyss0fly/PlayerCoords/Releases/1.2)
+- 6.X.X,
+- [5.X.Y Found Here](https://github.com/skyss0fly/PlayerCoords/Releases/1.2)
 
  # thanks to the following for helping me construct this plugin:
 - Amit
